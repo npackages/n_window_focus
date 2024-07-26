@@ -1,7 +1,7 @@
 name: n_window_focus
-description: "A new Flutter plugin project."
+description: "Window Focus is a practical Flutter plugin designed to monitor user inactivity and fetch details about the active window's title across Mac OS and Windows platforms."
 version: 0.0.1
-# homepage:
+homepage: https://github.com/npackages/n_window_focus
 
 environment:
   sdk: '>=3.4.4 <4.0.0'
